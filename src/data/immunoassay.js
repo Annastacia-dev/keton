@@ -9,7 +9,7 @@ const immunoassay = {
       long_title:
         'NAISSA® – a fully-automated Mono test Immunoanalyzer with an unique mono test reagent cartridge, state-of-the-art technology and outstanding flexibility.',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1694233440/equip-6_k7gbah.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596235/Keton/equip-6_yoys8i.png',
       description: [
         'NAISSA® – a fully-automated Mono test Immunoanalyzer with an unique mono test reagent cartridge, state-of-the-art technology and outstanding flexibility.',
         'Less human effort',
@@ -33,7 +33,7 @@ const immunoassay = {
       category: 'Immunoassay',
       title: 'Maglumi 800',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068104/image_4_vlitzg.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596323/Keton/image_4_ea9t4z.png',
       description: [
         'Technical Specifications:',
         'Principle: Chemiluminesence [CLIA ]',
@@ -50,7 +50,7 @@ const immunoassay = {
       category: 'Immunoassay',
       title: 'Maglumi  X3',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068104/image_5_ptceqw.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596325/Keton/image_5_o4dhmc.png',
       description: [
         'Technical Specifications:',
         'Throughput: maximum 200 tests/hour',
@@ -65,7 +65,7 @@ const immunoassay = {
       category: 'Immunoassay',
       title: 'Maglumi  X8',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068103/image_6_lualte.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596326/Keton/image_6_yoiuth.png',
       description: [
         'Technical Specifications:',
         'Throughput: Maximum 600 tests/ hour',

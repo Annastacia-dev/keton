@@ -148,7 +148,7 @@ const Clinical = () => {
                 <div className="absolute left-20 bg-primaryBlue sm:w-[60%] sm:h-[22rem] rounded-xl sm:block"></div>
                 <div className="sm:absolute">
                   <img
-                    src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1697899387/keton/Rectangle_227_xh7hjj.png"
+                    src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596286/Keton/Rectangle_227_hsmhjx.png"
                     alt="logo"
                     className="w-3/4 h-3/4 rounded-lg"
                     loading="lazy"

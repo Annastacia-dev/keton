@@ -29,7 +29,7 @@ const Corporate = () => {
 
         <div className="col-span-1">
           <img
-            src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327250/keton/Keton_Consulting61_sv465q.jpg"
+            src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595646/Keton/Keton_Consulting61_gvtbay.jpg"
             alt="consulting-4"
             className="w-full h-full rounded object-cover"
           />

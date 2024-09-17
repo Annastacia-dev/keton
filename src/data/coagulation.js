@@ -7,7 +7,7 @@ const coagulation = {
       category: 'Coagulation',
       title: 'COAG 4D',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068398/image_7_fsaisy.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596324/Keton/image_7_ectxfv.png',
       description: [
         '4 independent measuring channels (2 parallels or 4 single tests)',
         'Full-scope coagulation testing',
@@ -21,7 +21,7 @@ const coagulation = {
       category: 'Coagulation',
       title: 'COAG XL',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068398/image_8_qv7kk1.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596324/Keton/image_8_e4vuiq.png',
       description: [
         'Measurement modes: Photometry 405 nm/ Turbidimetry 570 nm /Nephelometry 640 nm',
         'Throughput: 300 PT/hour*, 170 PT + APTT tests/hour*',
@@ -35,7 +35,7 @@ const coagulation = {
       category: 'Coagulation',
       title: 'COAG M',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068398/image_9_s948kn.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596325/Keton/image_9_vjvaq8.png',
       description: [
         'Random access of optical clotting, immunologic and chromogenic assays 4 channels',
         'Measurement modes',

@@ -7,7 +7,7 @@ const bloodGas = {
       category: 'Blood Gas',
       title: 'OPTI CCA TS2 Blood gas analyzer',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1694711844/equip-24_mzx8sg.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596239/Keton/equip-24_apsz13.png',
       description: [
         'PH, PCO2, PO2, THB, SO2, NA+, K+, CA++, CL, GLUCOSE, BUN(Urea), Lactate, Barometric Pressure',
         'Minimum Sample Size: 125 µL, 60µL for B-60 cassette',

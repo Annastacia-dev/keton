@@ -113,7 +113,7 @@ const Haematology = () => {
                 <div className="absolute left-20 bg-primaryBlue w-[55%] sm:h-[19rem] rounded-xl sm:block hidden"></div>
                 <div className="sm:absolute">
                   <img
-                    src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1697896601/keton/Rectangle_227_eawgzs.png"
+                    src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596286/Keton/Rectangle_227_hsmhjx.png"
                     alt="logo"
                     className="sm:w-3/4 w-3/4 sm:h-3/4 rounded-lg"
                     loading="lazy"

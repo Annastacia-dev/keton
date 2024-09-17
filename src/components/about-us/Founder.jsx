@@ -32,7 +32,7 @@ const Founder = () => {
               <div className="absolute left-20 bg-primaryBlue w-11/12 sm:h-[28rem] rounded-lg sm:block hidden"></div>
               <div className="sm:absolute">
                 <img
-                  src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1696912493/keton/Rectangle_38_bvygae.png"
+                  src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596428/Keton/Rectangle_38_s3yqng.png"
                   alt="logo"
                   className="w-11/12 h-3/4 rounded-lg "
                   loading="lazy"

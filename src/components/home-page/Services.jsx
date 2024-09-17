@@ -79,7 +79,7 @@ const Services = () => {
 
           <div className="col-span-1 flex flex-col">
             <img
-              src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1696918224/keton/Mask_group_gh9feb.png"
+              src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596427/Keton/Mask_group_ve75g6.png"
               alt="logo"
               className="w-full h-full rounded-lg"
             />

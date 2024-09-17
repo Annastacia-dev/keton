@@ -3,7 +3,7 @@ const Header = () => {
     <header
       className="bg-cover bg-top h-96 flex flex-col justify-center items-center text-white bg-no-repeat"
       style={{
-        backgroundImage: `url(/images/consulting-1.png)`,
+        backgroundImage: `url(https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596488/Keton/consulting-2_dqfmqy.png)`,
       }}
     >
       <div className="absolute top-0 left-0 w-full h-96 bg-black opacity-50"></div>

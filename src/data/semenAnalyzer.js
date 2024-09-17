@@ -7,7 +7,7 @@ const semenAnalyzer = {
       category: 'Semen Analyzer',
       title: 'Lenshook X1 Pro Semen Analyzer',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698069111/image_14_tivusg.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596326/Keton/image_14_lmvxo4.png',
       description: [
         'The LensHooke X1 is a Semen Quality Analyzer that offers more parameters from CASA assessment to further evaluate the sperm quality and motility',
         'X1 PRO SE Semen Quality Analyzer',
@@ -23,7 +23,7 @@ const semenAnalyzer = {
       category: 'Semen Analyzer',
       title: 'Sperm DNA Fragmentation test kit',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698069111/Rectangle_13_jeg7ht.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596333/Keton/Rectangle_13_eim2eh.png',
       description: [
         'Sperm DNA fragmentation test kit (SCD assay)',
         'Save Time',
@@ -34,7 +34,7 @@ const semenAnalyzer = {
       category: 'Semen Analyzer',
       title: 'Lenshook X12 Pro Semen Analyzer',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698069112/image_12_s13yci.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596326/Keton/image_12_vsdkrm.png',
       description: [
         'The LensHooke X12 is a Semen Quality Analyzer that offers more parameters from CASA assessment to further evaluate the sperm quality and motility and DNA Fragmentation Index',
         'LensHooke X12 PRO Semen Analysis System',

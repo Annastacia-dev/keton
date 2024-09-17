@@ -7,7 +7,7 @@ const molecular = {
       category: 'Molecular Equipment',
       title: 'PCR Max Realtime PCR',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068818/image_10_jx2qdf.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596325/Keton/image_10_gymb8w.png',
       description: [
         'The PCRmax Eco 48 utilises patented block and optical technologies to deliver extreme speed, sensitivity and data quality, with optimised protocol as fast as 15 minutes, all using standard plasticware and consumables, sensitivity down to 1 copy detection and the world most accurate block the Eco 48 will deliver Speed. Confidence. Performance. Value and Sensitivity.',
         'The PCRmax Eco 48 real time PCR system is a high specification, economically priced real time thermal cycler that accommodates a unique 48-well polypropylene PCR plate utilising the same geometry as standard 384-well plates, but only 1/8 of the size. This enables users to dramatically reduce the qPCR reagent volumes compared to traditional 96-well instruments, whilst still producing a strong fluorescence signal. Minimizing the plate size also significantly improves thermal uniformity. A minimum volume of 5µl is validated, cutting reagent costs in half and making more efficient use of expensive and hard to acquire template DNA samples.',
@@ -39,7 +39,7 @@ const molecular = {
         'Fully Automated • SLA-E13200 can simultaneously process 32 samples • Using TANBead prefilled reagents only need to add samples to run extraction program Easy Operation • Completely automated, highly consistent results • Installation with USB , easy operation, laptop connection is not necessary Stability • Built-in UV light , reduce chance of cross-contamination • Two heating plates, accurate temperature control system, allow running extraction at optimal temperature.',
       ],
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698068818/image_11_an04d0.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596326/Keton/image_11_e7yofk.png',
       description: [
         'ANBEAD EXTRACTION KIT',
         'TANBead is competent in producing a variety of extraction reagent kits which are widely used in DNA/RNA extractions from samples of blood, cell, tissue, plant, bacteria, and virus etc. Our pre-filled reagents provide you a ready-to-use solution that there are in selection of Auto Plate and Auto Tube which fulfills any kind of sample number requirements in your experiments.',

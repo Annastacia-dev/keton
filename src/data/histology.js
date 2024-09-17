@@ -7,7 +7,7 @@ const histology = {
       category: 'Histology',
       title: 'SPIN TISSUE PROCESSOR STP-120',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698069870/Rectangle_274_a9otk6.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596347/Keton/Rectangle_274_pofrnr.png',
       description: [
         'Myr Spin Tissue Processor STP 120 has been developed to meet the requirements of every single laboratory. The state-of-the-art technology and the unsurpassed processing method of the STP 120 qualifies it as the most successful Spin Tissue Processors ever. More than 3.000 units installed around the world confirms its leading position.',
         'A worldwide unique technique',
@@ -25,7 +25,7 @@ const histology = {
       category: 'Histology',
       title: 'FULLY AUTOMATED ROTARY MICROTOME M-250',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698069870/image_275_whblkq.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596336/Keton/image_275_tk4xta.png',
       description: [
         'The M-250 microtome from Myr uses state-of-the-art technology and embodies the company´s commitment to quality and excellence in the microtomy. It provides the operational convenience and the stability required for outstanding sectioning in routine, research and industry applications.',
         'Memory function',
@@ -53,7 +53,7 @@ const histology = {
       category: 'Histology',
       title: 'TISSUE EMBEDDING CENTER EC-500',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698069870/image_15_trtwmh.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596326/Keton/image_15_ifhals.png',
       description: [
         'All elements in the modular paraffin embedding center are designed to achieve maximum efficiency and operating comfort.',
         'Dispensing Console EC 500-2',
@@ -75,7 +75,7 @@ const histology = {
       category: 'Histology',
       title: 'AUTOMATED SLIDE STAINER SS-30',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1698069870/image_16_lcunca.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596329/Keton/image_16_lsxrii.png',
       description: [
         'Flexible and versatile design for optimized staining results in histology and cytology labs.',
         'Multistaining capability',

@@ -13,7 +13,7 @@ const IsoTraining = () => {
         <div className="grid grid-cols-1 sm:grid-cols-3 sm:gap-20 gap-4 mt-4 sm:px-10">
           <div className="col-span-1">
             <img
-              src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693326949/keton/Lab_Tecs7_akq2wq.jpg"
+              src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595699/Keton/Lab_Tecs7_ivrojt.jpg"
               alt="training"
               className="w-full h-96 rounded object-cover"
               loading="lazy"

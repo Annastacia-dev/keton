@@ -4,7 +4,7 @@ const Quote = () => {
       <header
         className="bg-cover bg-top sm:h-[16rem] h-[20rem] flex flex-col justify-start items-start text-black bg-no-repeat relative"
         style={{
-          backgroundImage: `url('https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327068/keton/Lab_Tecs4_vcqhyn.jpg')`,
+          backgroundImage: `url('https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595663/Keton/Lab_Tecs4_dxylvi.jpg')`,
         }}
       >
         <div className="absolute top-0 left-0 w-full sm:h-[16rem] h-[20rem] bg-primaryBlue opacity-80"></div>

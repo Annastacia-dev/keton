@@ -3,54 +3,55 @@ import { Link } from 'react-router-dom';
 const imagesArrayOne = [
   {
     id: 1,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327564/keton/Lab_Tecs48_etcgk9.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595845/Keton/Lab_Tecs48_irzmvb.jpg',
   },
   {
     id: 2,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327545/keton/Keton_Consulting2_1_wn06dt.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699594995/Keton/Keton_Consulting25_1_aeiu4t.jpg',
   },
 
   {
     id: 3,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327536/keton/Keton_Consulting38_1_akqg69.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595144/Keton/Keton_Consulting38_1_o1nnjk.jpg',
   },
   {
     id: 4,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327519/keton/Keton_Consulting9_q8bfbu.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699594841/Keton/Keton_Consulting9_ugnynd.jpg',
   },
 ];
 
 const imagesArrayTwo = [
   {
     id: 5,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327510/keton/Keton_Consulting20_xcaoi2.jpg',
+    /*LInk not changed incase you update please delete*/
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699594956/Keton/Keton_Consulting2_fts9hx.jpg',
   },
   {
     id: 6,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327233/keton/Keton_Consulting62_nadvpc.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595632/Keton/Keton_Consulting62_tc33e1.jpg',
   },
   {
     id: 7,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327145/keton/Keton25_-_Copy_pwb1sk.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699594995/Keton/Keton_Consulting25_1_aeiu4t.jpg',
   },
 ];
 
 const imagesArrayThree = [
   {
     id: 8,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327143/keton/Lab_Tecs1_jv22x0.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595597/Keton/Lab_Tecs1_pbmoki.jpg',
   },
   {
     id: 9,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327059/keton/Lab_Tecs38_fdah4u.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595830/Keton/Lab_Tecs38_wmznpk.jpg',
   },
   {
     id: 10,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693326925/keton/Lab_Tecs53_tsqzbu.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595917/Keton/Lab_Tecs53_j5dxwn.jpg',
   },
   {
     id: 11,
-    src: 'https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327097/keton/Lab_Tecs29_fqdytn.jpg',
+    src: 'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595750/Keton/Lab_Tecs29_psy0kk.jpg',
   },
 ];
 

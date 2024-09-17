@@ -7,13 +7,13 @@ const Mission = () => {
             <div className="relative">
               <div className="absolute right-40 bg-primaryBlue w-11/12 sm:h-[18rem] rounded-lg sm:block hidden"></div>
               <img
-                src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327321/keton/Keton_Consulting50_dyn6xx.jpg"
+                src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595384/Keton/Keton_Consulting50_jhy6v1.jpg"
                 alt="mission"
                 className="w-72 h-72 object-cover rounded-lg sm:absolute bottom-40 right-40"
                 loading="lazy"
               />
               <img
-                src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327554/keton/Keton_Consulting18_s9jwbv.jpg"
+                src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699594928/Keton/Keton_Consulting18_cchpnz.jpg"
                 alt="vision"
                 className="w-72 h-72 object-cover rounded-lg sm:mt-40 -mt-10 ml-10"
                 loading="lazy"

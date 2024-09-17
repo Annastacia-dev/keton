@@ -26,7 +26,7 @@ const BioMedicine = () => {
         <div className="grid grid-cols-1 sm:grid-cols-3 sm:gap-20 gap-4 mt-4 sm:px-10">
           <div className="col-span-1">
             <img
-              src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327390/keton/Keton_Consulting47_qvtczz.jpg"
+              src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595425/Keton/Keton_Consulting47_lgelg3.jpg"
               alt="bio"
               className="w-full h-96 rounded object-cover"
               loading="lazy"

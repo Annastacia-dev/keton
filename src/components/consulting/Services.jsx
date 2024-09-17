@@ -23,7 +23,7 @@ const Services = () => {
       <div className="grid grid-cols-1 sm:grid-cols-3 sm:gap-20 gap-4 mt-4 sm:px-10">
         <div className="col-span-1">
           <img
-            src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327321/keton/Keton_Consulting50_dyn6xx.jpg"
+            src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595384/Keton/Keton_Consulting50_jhy6v1.jpg"
             alt="consulting-2"
             className="w-full h-full rounded object-cover"
           />

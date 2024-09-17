@@ -46,13 +46,13 @@ const Home = () => {
           <div className="relative">
             <div className="absolute right-40 bg-primaryBlue w-11/12 sm:h-[18rem] rounded-lg sm:block hidden"></div>
             <img
-              src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327549/keton/Keton_Consulting17_hwjw6d.jpg"
+              src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699594862/Keton/Keton_Consulting17_t3zvqv.jpg"
               alt="mission"
               className="w-72 h-72 object-cover rounded-lg sm:absolute bottom-40 right-40"
               loading="lazy"
             />
             <img
-              src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693384557/keton/keton_new_bbqbao.jpg"
+              src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595568/Keton/keton_new_b8mgow.jpg"
               alt="vision"
               className="w-72 h-72 object-cover rounded-lg sm:mt-40 -mt-10 ml-10"
               loading="lazy"

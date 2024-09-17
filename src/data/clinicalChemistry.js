@@ -7,7 +7,7 @@ const clinicalChemistry = {
       category: 'Clinical Chemistry',
       title: 'SNIBE Bioassay 240 Plus',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1694233421/equip-1_cnrero.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596231/Keton/equip-1_xpdrzl.png',
       description: [
         '240 tests per hour',
         '90 sample positions',
@@ -41,7 +41,7 @@ const clinicalChemistry = {
       category: 'Clinical Chemistry',
       title: 'GENRUI GE 300',
       image:
-        'https://res.cloudinary.com/dlahz5ciz/image/upload/v1694233420/equip-2_blgn5u.png',
+        'https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699596231/Keton/equip-2_zikl7t.png',
       description: [
         'principle: ISE Ion Selective Electrode',
         '60 Samples per hour',

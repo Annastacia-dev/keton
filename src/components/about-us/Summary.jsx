@@ -8,7 +8,7 @@ const Summary = () => {
               Get to know us better.
             </h2>
             <img
-              src="https://res.cloudinary.com/dlahz5ciz/image/upload/v1693327005/keton/Lab_Tecs49_viiarf.jpg"
+              src="https://res.cloudinary.com/dqfoxx9mz/image/upload/v1699595845/Keton/Lab_Tecs49_gprgn9.jpg"
               alt="mission"
               className="w-full sm:h-[30rem] h-[20rem] object-cover rounded-lg"
             />
